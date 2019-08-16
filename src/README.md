@@ -1,6 +1,6 @@
 # Über diese Dokumentation
 
-Dies ist die elektronische Dokumentation für [MAGELLAN 6 Haushalt & Inventar](https://magellan.stueber.de/magellan-library.php). 
+Dies ist die Dokumentation für [MAGELLAN 6 Haushalt & Inventar](https://magellan.stueber.de/magellan-library.php). 
 
 * [Datenbank vorbereiten](texte/db.vorbereiten.md)
 * [Stammdaten](texte/stammdaten.md)
@@ -14,5 +14,5 @@ Dies ist die elektronische Dokumentation für [MAGELLAN 6 Haushalt & Inventar](h
 * [MAGELLAN 6](https://doc.magellan6.stueber.de)
 * [MAGELLAN 6 BIBLIOTHEK](https://doc.magellan6-bibliothek.stueber.de)
 
-Das Dokumentationsportal von STÜBER SYSTEMS finden Sie in unter [doc.stueber.de](https://doc.stueber.de).
+Das Dokumentationsportal von STÜBER SYSTEMS finden Sie in unter [doc.stueber.de](http://doc.stueber.de).
 
