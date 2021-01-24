@@ -1,5 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/i8wkfm7pske634jh?svg=true)](https://ci.appveyor.com/project/stueber/doc-magellan6-haushalt-inventar-de)
-
 # MAGELLAN 6 HAUSHALT & INVENTAR Dokumentation
 
 Dies ist die deutsche Dokumentation zu MAGELLAN 6 HAUSHALT & INVENTAR. Die Dokumentation ist Open Source und wir haben sie mit [GitBook](https://github.com/GitbookIO/gitbook) realisiert.
